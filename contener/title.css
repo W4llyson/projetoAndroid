@@ -1,0 +1,22 @@
+.h1{
+    font-family: var(--fonte-destaque);
+    color: white;
+    font-weight: normal;
+}
+
+.h2{
+    font-family: var(--fonte-Android);
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right, var(--cor2), transparent);
+    font-weight: normal;
+    padding: 0.2em;
+    border-radius: 4px;
+}
+
+.h3{
+    color: white;
+    background-color: var(--cor4);
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+    margin: -10px -10px 0px -10px; /*-10px aumenta 10px pra fora*/
+}
